@@ -1,0 +1,33 @@
+.blog-item-img{
+    position: relative;
+}
+.blog-item-img .blog-tool{
+    position: absolute;
+    bottom: 10px;
+    display: flex;
+    padding: 0 20px;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.edit{
+    background: rgb(10, 170, 77);
+    color: #fff;
+    height: 35px;
+    width: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+}
+
+.trash{
+    background: crimson;
+    color: #fff;
+    height: 35px;
+    width: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+}

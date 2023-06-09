@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'medMsi';
+  src: url('./assets/fonts/Yekan-Bakh-FaNum-05-Medium.eot') format('eot');
+  src : url('./assets/fonts/Yekan-Bakh-FaNum-05-Medium.ttf') format('truetype'),
+  url('./assets/fonts/Yekan-Bakh-FaNum-05-Medium.woff') format('woff');
+}
+body{
+  font-family: 'medMsi';
+  direction: rtl;
+  text-align: right;
+}

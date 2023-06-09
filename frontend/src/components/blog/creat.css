@@ -1,0 +1,10 @@
+.blog-post{
+    background-image: url(../../assets/images/blog.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.blog-post textarea{
+    height: 120px;
+}
