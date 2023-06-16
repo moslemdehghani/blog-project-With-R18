@@ -50,7 +50,7 @@ const Navbar = () => {
        
        </div>
 
-       <NavLink className="navbar-brand" to="#">Blog TopLearn</NavLink>
+       <NavLink className="navbar-brand" to="#">Blog project</NavLink>
      </div>
    </nav>
   )
